@@ -36,7 +36,7 @@ const App = () => {
         </header>
         <main>
           <Routes />
-          Hello Testing
+          Hello World
         </main>
       </Container>
     </Security>
